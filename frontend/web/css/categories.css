@@ -1,0 +1,22 @@
+.site-categories {}
+.site-categories .clear {
+	clear: both;
+}
+.site-categories .wrapp_cat {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: #C4C4C4;
+	margin: 5px;
+	padding: 10px;
+	text-align: center;
+	position: relative;
+}
+.site-categories .wrapp_cat .name {
+	font-weight: bold;
+}
+.site-categories .wrapp_cat a.btn {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
